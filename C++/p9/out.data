@@ -1,0 +1,33 @@
+<~~~ Binary Tree Report ~~~>
+ 
+111 Tree is empty, you can not delete!
+ 
+List is empty, you can not print!
+ 
+Number of nodes: 0
+ 
+Height of tree: Tree is Empty 
+ 
+List is empty, you can not search!
+ 
+Tree is empty! Cannot Update!
+ 
+*Student with ID: 111 has Grade: B - Information System - Female
+ 
+In order of tree
+----------------
+111 B
+ 
+In preorder of tree
+----------------
+111 B
+ 
+In postorder of tree
+----------------
+111 B
+ 
+Number of nodes: 1
+ 
+Height of tree: 0
+ 
+~~~(end)~~~

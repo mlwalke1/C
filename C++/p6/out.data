@@ -1,0 +1,16 @@
+<* Linked List of Students *>
+ 
+List is empty, you can not print!
+ 
+List is empty, you can not delete!
+ 
+List is empty, you can not search!
+ 
+List is empty!
+
+*Student 111 has GPA: 1.11
+*111(1.11)
+>>> Number Of Item(s) In The List:1
+>>> Number Of Invalid Data:0
+ 
+~~~(end)~~~

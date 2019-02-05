@@ -1,0 +1,17 @@
+D 111
+L
+K
+M
+P
+A 2376 3rdGenIntelCorei3	4 GB	1 TB	d 699.00  SE145
+A 3491 4thGenIntelCorei7	16 GB	2 TB	d 1255.00 SE135
+A 6840 CeleronDualCore	        4 GB	500 GB	l 499.00  SE136
+P
+D 2376
+D 3491
+D 6840
+L
+K
+M
+P
+

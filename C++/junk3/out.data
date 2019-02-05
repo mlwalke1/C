@@ -1,0 +1,41 @@
+*~~<Patient Exam Report>~~*
+Name           Pat. M/F  Exam1  Exam2  Exam3  AVG       Risk Level
+----           ---- ---  -----  -----  -----  -----     ----------
+Lewis,Rose     1111 F    75.00  80.00  70.00  75.00     BLUE      
+Weber,Mark     7821 M    99.00  97.00  99.00  98.33     RED       
+Runer,Jon      9102 M    60.00  100.00 83.00  81.00     YELLOW    
+Sooner,Al      8888 M    -1.00  0.00   100.00 ~~Invalid Data~~    
+Pond,Lili      3456 F    88.00  88.00  88.00  88.00     YELLOW    
+Kim,Soondok    4111 F    75.00  80.00  70.00  75.00     BLUE      
+Garcia,Jose    6821 M    11.00  11.00  11.00  11.00     GREEN     
+Sabbah,Ali     8102 M    60.00  100.00 83.00  81.00     YELLOW    
+Jackson,Bo     2888 M    -1.00  0.00   100.00 ~~Invalid Data~~    
+Bai,Huirong    9456 F    88.00  88.00  88.00  88.00     YELLOW    
+ 
+Exam Summary (If record invalid, all exam scores counted invalid)
+------------
+<=70    :*******
+>70, <97:************
+>=97    :*****
+Invalid :******
+ 
+Patient Summary
+---------------
+ 
+RED     :*    
+ORANGE  :     
+YELLOW  :**** 
+BLUE    :**   
+GREEN   :*    
+Invalid :**   
+ 
+Male    :-610889476% (368407782 valid records)
+Female  :325230% (32523 valid records)
+ 
+Valid   :80.00% (8.00 records)
+Invalid :20.00% (2.00 records)
+ 
+Max     :98.33 (Patient ID: 7821)
+Min     :11.00 (Patient ID: 6821)
+ 
+*< End of Report >*

@@ -1,0 +1,20 @@
+I 555 A I M
+I 222  B C F
+I 777 C C M
+I 444 A I F
+D 444
+D 222
+D 777 
+D 555
+D 111
+P
+N
+H
+S 222
+U 222 A I M
+I 111 A I F
+U 111 B I F
+S 111
+P
+N
+H

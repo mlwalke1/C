@@ -1,0 +1,171 @@
+<<<***Successful Sequential Search***>>>
+ID   Number of Comparison
+---  --------------------
+1111     1
+3352     2
+4567     3
+5678     4
+6789     5
+7890     6
+8901     7
+9012     8
+1223     9
+2113     10
+8546     11
+2374     12
+4723     13
+9573     14
+3284     15
+7474     16
+8594     17
+3589     18
+5858     19
+1925     20
+ 
+Average Number of Probes: 10.5
+ 
+<<<***Unsuccessful Sequential Search***>>>
+ID   Number of Comparison
+---  --------------------
+9456     20
+3584     20
+2222     20
+4319     20
+4477     20
+5710     20
+5497     20
+1502     20
+1599     20
+1504     20
+1506     20
+9943     20
+8833     20
+9944     20
+6678     20
+5555     20
+5660     20
+9911     20
+6130     20
+1613     20
+ 
+Average Number of Probes: 20
+ 
+<<<***Successful Binary Search***>>>
+ID   Number of Comparison
+---  --------------------
+1111    3
+3352    4
+4567    1
+5678    3
+6789    5
+7890    4
+8901    4
+9012    5
+1223    4
+2113    2
+8546    5
+2374    4
+4723    4
+9573    5
+3284    3
+7474    2
+8594    3
+3589    5
+5858    4
+1925    5
+ 
+Average Number of Probes: 3.75
+ 
+<<<***Successful Binary Search***>>>
+ID   Number of Comparison
+---  --------------------
+9456    5
+3584    5
+2222    4
+4319    5
+4477    5
+5710    4
+5497    4
+1502    5
+1599    5
+1504    5
+1506    5
+9943    5
+8833    4
+9944    5
+6678    5
+5555    4
+5660    4
+9911    5
+6130    5
+1613    5
+ 
+Average Number of Probes: 4.7
+ 
+<<<***Successful Hash Method Search***>>>
+ID   Number of Comparison
+---  --------------------
+1111    1
+3352    1
+4567    1
+5678    1
+6789    1
+7890    1
+8901    1
+9012    3
+1223    1
+2113    1
+8546    1
+2374    1
+4723    1
+9573    1
+3284    1
+7474    4
+8594    1
+3589    6
+5858    1
+1925    7
+ 
+Average Number of Probes: 1.8
+ 
+<<<***Unsuccessful Hash Method Search***>>>
+ID   Number of Comparison
+---  --------------------
+ 
+Average Number of Probes: 0
+ 
+<<<***Successful Double Hash Search***>>>
+ID   Number of Comparison
+---  --------------------
+1111    1
+3352    1
+4567    1
+5678    1
+6789    1
+7890    1
+8901    1
+9012    2
+1223    1
+2113    1
+8546    1
+2374    1
+4723    1
+9573    1
+3284    1
+7474    1
+8594    1
+3589    2
+5858    1
+1925    2
+ 
+Average Number of Probes: 1.15
+ 
+<<<***Unsuccessful Double Hash Search***>>>
+ID   Number of Comparison
+---  --------------------
+5497    17
+9943    17
+8833    16
+ 
+Average Number of Probes: 2.5
+ 

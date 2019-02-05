@@ -1,0 +1,5 @@
+*** Fully Parenthesized Arithmetic Infix Expression ***
+  
+(2*(1/2))); ~~~Stack Underflow!
+ 
+< end >

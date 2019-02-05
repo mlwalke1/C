@@ -1,0 +1,57 @@
+*~< Lab Report >*
+List is Empty! No Delete!
+    
+    
+    
+    
+List is Empty! No Print!
+    
+IdNumber    Processor       RAM Size  Disk Size  Computer Type  Cost    Location  
+--------    ---------       --------  ---------  -------------  ----    --------  
+2376     3rdGenIntelCorei3     4  GB  1  TB      Desktop        699.00  SE145     
+3491     4thGenIntelCorei7     16 GB  2  TB      Desktop        1255.00 SE135     
+6840     CeleronDualCore       4  GB  500GB      Laptop         499.00  SE136     
+   
+SE135:   %0
+SE136:   %0
+SE145:   %0
+   
+*** 0 invalid record(s)
+    
+Item not Found! No Delete!
+    
+Item not Found! No Delete!
+    
+List is Empty! No Laptop List!
+List is Empty! No Laptop List!
+    
+List Of Desktop
+---------------
+IdNumber    Processor       RAM Size  Disk Size  Computer Type  Cost    Location  
+--------    ---------       --------  ---------  -------------  ----    --------  
+2376     3rdGenIntelCorei3     4  GB  1  TB      Desktop        699.00  SE145     
+List Of Desktop
+---------------
+IdNumber    Processor       RAM Size  Disk Size  Computer Type  Cost    Location  
+--------    ---------       --------  ---------  -------------  ----    --------  
+3491     4thGenIntelCorei7     16 GB  2  TB      Desktop        1255.00 SE135     
+    
+List is Empty! No Desktop List!
+List High RAM & Disk
+--------------------
+IdNumber    Processor       RAM Size  Disk Size  Computer Type  Cost    Location  
+--------    ---------       --------  ---------  -------------  ----    --------  
+3491     4thGenIntelCorei7     16 GB  2  TB      Desktop        1255.00 SE135     
+    
+IdNumber    Processor       RAM Size  Disk Size  Computer Type  Cost    Location  
+--------    ---------       --------  ---------  -------------  ----    --------  
+2376     3rdGenIntelCorei3     4  GB  1  TB      Desktop        699.00  SE145     
+3491     4thGenIntelCorei7     16 GB  2  TB      Desktop        1255.00 SE135     
+   
+SE135:   %0
+SE136:   %0
+SE145:   %0
+   
+*** 0 invalid record(s)
+    
+ >end<
